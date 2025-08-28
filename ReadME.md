@@ -9,3 +9,4 @@ A set of guiding principles that impose conditions on how an API should work
 ## How to identify resources in a REST API?
 
 A resource is any object, document or thing that the API can receive from or send to clients.
+
