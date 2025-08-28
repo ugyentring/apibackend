@@ -27,8 +27,17 @@ List<GameDto> games = [
         new DateOnly(2015, 9, 21))
 ];
 
+
+//GET /games
 app.MapGet("games", () => games);
 
-app.MapGet("/", () => "Hello Ugyen!");
+//GET /games/1
+app.MapGet("games/{id}", (int id) => games.Find(game => game.Id == id));
+
+//POST /games
+app.MapPost("games", (CreateGameDto newGame) =>
+{
+
+});
 
 app.Run();
