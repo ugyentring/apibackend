@@ -26,3 +26,9 @@ D:\C#\apibackend\GameStoreApi\obj\Debug\net9.0\refint\GameStoreApi.dll
 D:\C#\apibackend\GameStoreApi\obj\Debug\net9.0\GameStoreApi.pdb
 D:\C#\apibackend\GameStoreApi\obj\Debug\net9.0\GameStoreApi.genruntimeconfig.cache
 D:\C#\apibackend\GameStoreApi\obj\Debug\net9.0\ref\GameStoreApi.dll
+D:\C#\apibackend\GameStoreApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\C#\apibackend\GameStoreApi\bin\Debug\net9.0\MinimalApis.Extensions.dll
+D:\C#\apibackend\GameStoreApi\bin\Debug\net9.0\MiniValidation.dll
+D:\C#\apibackend\GameStoreApi\obj\Debug\net9.0\GameStoreApi.csproj.AssemblyReference.cache
+D:\C#\apibackend\GameStoreApi\obj\Debug\net9.0\GameStoreApi.MvcApplicationPartsAssemblyInfo.cs
+D:\C#\apibackend\GameStoreApi\obj\Debug\net9.0\GameStor.32FDE826.Up2Date
